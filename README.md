@@ -15,20 +15,14 @@ Jawaban
 
 4. Semua divisi yang bernamakan col-(column) perlu kita atur hingga mencapai 100%, karena jika kita berikan dengan pixel(px) maka website tidak akan bisa menyesuaikan dengan layar yang digunakan perangkat pengguna
 
-Latihan 1
 ![alt text](https://github.com/DemsiRakhi/CSS-Responsive/blob/master/CSS%20Responsive/SSLatihan1.PNG)
 
-Latihan 2
 ![alt text](https://github.com/DemsiRakhi/CSS-Responsive/blob/master/CSS%20Responsive/SSLatihan2.PNG)
 
-Latihan 3
 ![alt text](https://github.com/DemsiRakhi/CSS-Responsive/blob/master/CSS%20Responsive/SSLatihan3.PNG)
 
-Latihan 4
 ![alt text](https://github.com/DemsiRakhi/CSS-Responsive/blob/master/CSS%20Responsive/SSLatihan4.PNG)
 
-Latihan 5
 ![alt text](https://github.com/DemsiRakhi/CSS-Responsive/blob/master/CSS%20Responsive/SSLatihan5.PNG)
 
-Latihan 6
 ![alt text](https://github.com/DemsiRakhi/CSS-Responsive/blob/master/CSS%20Responsive/SSLatihan6.PNG)
